@@ -21,6 +21,13 @@ body {
   justify-content: space-between;
 }
 
+.testimonial_icon {
+  height: 150px; /* You can adjust this height as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .service-content {
   flex: 1;
 }
